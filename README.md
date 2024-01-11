@@ -6,7 +6,7 @@
 
 ## Medium Article
 
-This project is accompanied by a detailed Medium article titled "Android Compose Tutorial - Bottom Bar UI." You can read the article [here]().
+This project is accompanied by a detailed Medium article titled "Android Compose Tutorial - Bottom Bar UI." You can read the article [here](https://medium.com/@kenruizinoue/android-compose-tutorial-bottom-bar-ui-165dc0d0f9b9).
 
 ## Overview
 
